@@ -4,7 +4,7 @@ package_name = 'turtlebot4_project'
 
 setup(
     name=package_name,
-    version='0.0.1',
+    version='0.0.0',
     packages=find_packages(where='.', include=[package_name]),  
     install_requires=['setuptools'],
     zip_safe=True,
