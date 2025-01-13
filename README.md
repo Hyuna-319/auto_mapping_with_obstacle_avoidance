@@ -90,9 +90,12 @@
 * Wall Follow
 
 
-<br>
-* Object Tracking
 
+[![스크린샷, 2025-01-13 22-25-25](https://github.com/user-attachments/assets/c57d4967-6f13-45f0-b16f-fa92333b3fb3)](https://youtu.be/ePOqK3uz2pU)
+
+<br>
+
+* Object Tracking
 
 
 ![결과 이미지](https://github.com/user-attachments/assets/3694009b-0584-4130-ba0b-cbf7c4c88f7b)
