@@ -74,9 +74,14 @@
 ![결과 이미지](https://github.com/user-attachments/assets/29fc33bb-bf6a-49a9-b203-8069a74010d1)
 
 
+<img src="https://github.com/user-attachments/assets/035bc15b-3ec4-4d03-a56b-f8943eb886ed" alt="ezgif-5-fa2ab96e05" width="300">
+
 
 
 <br>
+<br>
+<br>
+
 
 **결과 동영상**
 
