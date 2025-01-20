@@ -4,7 +4,7 @@
 
 
 
-[프로젝트 기록](https://velog.io/@cherry0319/%EC%82%AC%EB%82%B4-%EC%B9%B4%ED%8E%98-%EC%84%9C%EB%B9%99-%EB%A1%9C%EB%B4%87-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98) 
+[프로젝트 기록](https://velog.io/@cherry0319/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0-%EA%B0%9D%EC%B2%B4-%EC%B6%94%EC%A0%81) 
 
 <br>
 
